@@ -1,5 +1,7 @@
-# Run: python3 operators/comparison_operators.py
 # Comparison Operators Examples
+
+# Run: python3 05_conditionals/comparison_operators.py
+
 # Comparison operators compare two values and return True or False
 
 # Equal to (==)

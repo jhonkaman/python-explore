@@ -1,5 +1,7 @@
-# Run: python3 operators/arithmetic_operators.py
 # Arithmetic Operators Examples
+
+# Run: python3 03_numbers/3_arithmetic_operators.py
+
 # Arithmetic operators perform mathematical operations
 
 # Addition

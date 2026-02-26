@@ -1,4 +1,6 @@
-# Run: python3 basics/docstring.py
+# Docstring
+
+# Run: python3 01_basics/2_docstring.py
 
 """
 This is a multi-line comment (docstring).

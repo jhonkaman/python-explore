@@ -1,6 +1,6 @@
 # Print examples
 
-# Run: python3 1_basics/3_print.py
+# Run: python3 01_basics/3_print.py
 
 # The print() function outputs text to the console
 

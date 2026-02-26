@@ -1,5 +1,7 @@
-# Run: python3 2_strings/4_concatenation.py
 # String Concatenation
+
+# Run: python3 02_strings/4_concatenation.py
+
 # Strings are sequences of characters enclosed in quotes
 
 # String concatenation

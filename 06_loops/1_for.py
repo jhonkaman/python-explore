@@ -1,5 +1,7 @@
-# Run: python3 loops/for.py
 # For Loop Examples
+
+# Run: python3 06_loops/1_for.py
+
 # The for loop iterates over a sequence of items
 
 # For loop with range

@@ -1,5 +1,7 @@
-# Run: python3 loops/while.py
 # While Loop Examples
+
+# Run: python3 06_loops/2_while.py
+
 # The while loop executes as long as a condition is true
 
 # Simple while loop

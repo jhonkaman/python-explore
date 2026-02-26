@@ -1,5 +1,7 @@
-# Run: python3 loops/break.py
 # Break Statement Examples
+
+# Run: python3 06_loops/break.py
+
 # The break statement exits a loop prematurely
 
 # Break in for loop

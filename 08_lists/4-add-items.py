@@ -1,6 +1,6 @@
 # Add Items to a List
 
-# Run: python3 8_lists/4-add-items.py
+# Run: python3 08_lists/4-add-items.py
 
 # Use append() to add items to the end of a list or insert() to add items at a specific position.
 

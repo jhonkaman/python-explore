@@ -1,5 +1,7 @@
-# Run: python3 operators/assignment_operators.py
 # Assignment Operators Examples
+
+# Run: python3 03_numbers/4_assignment_operators.py
+
 # Assignment operators assign values to variables
 
 # Simple assignment

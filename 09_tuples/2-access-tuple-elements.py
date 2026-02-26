@@ -1,6 +1,6 @@
 # Access Tuple Elements
 
-# Run: python3 9_tuples/2-access-tuple-elements.py
+# Run: python3 09_tuples/2-access-tuple-elements.py
 
 # Access individual tuple items using their index position, just like with lists.
 

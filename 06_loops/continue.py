@@ -1,5 +1,7 @@
-# Run: python3 loops/continue.py
 # Continue Statement Examples
+
+# Run: python3 06_loops/continue.py
+
 # The continue statement skips the current iteration and goes to the next
 
 # Continue in for loop

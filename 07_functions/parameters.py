@@ -1,5 +1,7 @@
-# Run: python3 functions/parameters.py
 # Parameters Examples
+
+# Run: python3 07_functions/parameters.py
+
 # Parameters allow functions to accept data
 
 # Function with one parameter

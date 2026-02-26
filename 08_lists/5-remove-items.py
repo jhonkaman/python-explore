@@ -1,6 +1,6 @@
 # Remove Items from a List
 
-# Run: python3 8_lists/5-remove-items.py
+# Run: python3 08_lists/5-remove-items.py
 
 # Remove items from a list using remove() to delete by value or pop() to delete by index.
 

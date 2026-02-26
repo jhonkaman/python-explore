@@ -1,6 +1,6 @@
 # Access List Elements (Indexing)
 
-# Run: python3 8_lists/2-access-list-elements.py
+# Run: python3 08_lists/2-access-list-elements.py
 
 # Access individual list items using their index position (starting at 0).
 

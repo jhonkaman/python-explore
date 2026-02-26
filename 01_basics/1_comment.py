@@ -1,4 +1,7 @@
-# Run: python3 basics/comment.py
+# Comments
+
+# Run: python3 01_basics/1_comment.py
+
 # This is a single-line comment
 # Comments are ignored by Python and used to explain code
 

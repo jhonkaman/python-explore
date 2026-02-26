@@ -1,5 +1,7 @@
-# Run: python3 conditionals/1_if.py
 # If Statement Examples
+
+# Run: python3 05_conditionals/1_if.py
+
 # The if statement executes code only if a condition is true
 
 # Simple if statement

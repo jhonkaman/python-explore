@@ -1,5 +1,7 @@
-# Run: python3 3_numbers/1_numbers.py
 # Number Variables Examples
+
+# Run: python3 03_numbers/2_floats.py
+
 # Numbers can be integers or floats
 
 # Float variables (decimal numbers)

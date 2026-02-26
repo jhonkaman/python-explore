@@ -1,5 +1,7 @@
-# Run: python3 conditionals/3_elif.py
 # Elif Statement Examples
+
+# Run: python3 05_conditionals/3_elif.py
+
 # The elif (else if) statement handles multiple conditions
 
 # Simple if-elif-else

@@ -1,5 +1,7 @@
-# Run: python3 booleans/boolean_variables.py
 # Boolean Variables Examples
+
+# Run: python3 04_booleans/1_booleans.py
+
 # Booleans represent True or False values
 
 # Creating boolean variables

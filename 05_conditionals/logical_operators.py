@@ -1,5 +1,7 @@
-# Run: python3 operators/logical_operators.py
 # Logical Operators Examples
+
+# Run: python3 05_conditionals/logical_operators.py
+
 # Logical operators combine conditional statements
 
 # AND operator
