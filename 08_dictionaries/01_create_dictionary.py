@@ -1,4 +1,4 @@
-# Create Dictionary Variable
+# Create Dictionary
 
 # Run: python3 11_dictionaries/1-create-dictionary.py
 
