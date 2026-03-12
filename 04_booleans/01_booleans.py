@@ -1,4 +1,4 @@
-# Boolean Variables Examples
+# Booleans
 
 # Run: python3 04_booleans/1_booleans.py
 
