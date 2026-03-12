@@ -1,4 +1,4 @@
-# Logical Operators Examples
+# Logical Operators
 
 # Run: python3 05_conditionals/logical_operators.py
 

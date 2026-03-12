@@ -1,4 +1,4 @@
-# Comparison Operators Examples
+# Comparison Operators
 
 # Run: python3 05_conditionals/comparison_operators.py
 

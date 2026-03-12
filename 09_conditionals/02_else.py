@@ -1,4 +1,4 @@
-# Else Statement Examples
+# Else Statement
 
 # Run: python3 05_conditionals/2_else.py
 
@@ -6,6 +6,7 @@
 
 # Simple if-else
 age = 15
+
 if age >= 18:
     print("You are an adult")
 else:

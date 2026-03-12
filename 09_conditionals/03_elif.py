@@ -1,4 +1,4 @@
-# Elif Statement Examples
+# Elif Statement
 
 # Run: python3 05_conditionals/3_elif.py
 
@@ -6,6 +6,7 @@
 
 # Simple if-elif-else
 score = 78
+
 if score >= 90:
     print("Grade: A")
 elif score >= 80:

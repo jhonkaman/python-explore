@@ -1,4 +1,4 @@
-# If Statement Examples
+# If Statement
 
 # Run: python3 05_conditionals/1_if.py
 
@@ -6,5 +6,6 @@
 
 # Simple if statement
 age = 20
+
 if age >= 18:
     print("You are an adult")
