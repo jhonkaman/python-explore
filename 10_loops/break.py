@@ -1,4 +1,4 @@
-# Break Statement Examples
+# Break Statement
 
 # Run: python3 06_loops/break.py
 

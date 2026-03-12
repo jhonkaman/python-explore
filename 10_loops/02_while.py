@@ -1,4 +1,4 @@
-# While Loop Examples
+# While Loop
 
 # Run: python3 06_loops/2_while.py
 

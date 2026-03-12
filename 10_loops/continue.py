@@ -1,4 +1,4 @@
-# Continue Statement Examples
+# Continue Statement
 
 # Run: python3 06_loops/continue.py
 

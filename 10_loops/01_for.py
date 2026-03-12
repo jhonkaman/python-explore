@@ -1,4 +1,4 @@
-# For Loop Examples
+# For Loop
 
 # Run: python3 06_loops/1_for.py
 
