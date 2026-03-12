@@ -1,4 +1,4 @@
-# Create Set Variable
+# Create Set
 
 # Run: python3 10_sets/1-create-set.py
 
