@@ -1,4 +1,4 @@
-# Create Tuple Variable
+# Create Tuple
 
 # Run: python3 09_tuples/1-create-tuple.py
 
