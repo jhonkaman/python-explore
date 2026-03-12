@@ -5,6 +5,6 @@
 # Strings are sequences of characters enclosed in quotes
 
 # Creating string variables with double quotes
-message = "Hello, World!"
+message = "Hello World1234"
 
 print(message)

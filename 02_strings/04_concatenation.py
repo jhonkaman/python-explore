@@ -1,4 +1,4 @@
-# String Concatenation
+# Concatenation
 
 # Run: python3 02_strings/4_concatenation.py
 

@@ -5,7 +5,7 @@
 # Strings are sequences of characters enclosed in quotes
 
 # Multi-line strings using triple quotes
-bio = """My name is Alice.
+bio = """My name is John.
 I am learning Python.
 Strings are fun!"""
 
