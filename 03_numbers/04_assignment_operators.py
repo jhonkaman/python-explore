@@ -1,4 +1,4 @@
-# Assignment Operators Examples
+# Assignment Operators
 
 # Run: python3 03_numbers/4_assignment_operators.py
 

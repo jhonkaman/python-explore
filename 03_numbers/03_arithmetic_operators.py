@@ -1,4 +1,4 @@
-# Arithmetic Operators Examples
+# Arithmetic Operators
 
 # Run: python3 03_numbers/3_arithmetic_operators.py
 

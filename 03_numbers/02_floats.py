@@ -1,4 +1,4 @@
-# Number Variables Examples
+# Floats
 
 # Run: python3 03_numbers/2_floats.py
 

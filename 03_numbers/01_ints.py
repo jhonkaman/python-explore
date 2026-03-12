@@ -1,4 +1,4 @@
-# Number Variables Examples
+# Integers
 
 # Run: python3 03_numbers/1_ints.py
 
