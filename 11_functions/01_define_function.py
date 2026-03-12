@@ -1,4 +1,4 @@
-# Define Function Examples
+# Define Function
 
 # Run: python3 07_functions/1_define_function.py
 
@@ -6,7 +6,7 @@
 
 # Simple function with no parameters
 def greet():
-    print("Hello, World!")
+    print("Hello World")
 
 greet()
 print()
