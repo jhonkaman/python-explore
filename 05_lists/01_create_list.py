@@ -1,4 +1,4 @@
-# Create List Variable
+# Create List
 
 # Run: python3 08_lists/1-create-list.py
 

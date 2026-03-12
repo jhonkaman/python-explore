@@ -1,4 +1,4 @@
-# Access List Elements (Indexing)
+# Access List Elements
 
 # Run: python3 08_lists/2-access-list-elements.py
 

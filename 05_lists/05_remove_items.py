@@ -1,4 +1,4 @@
-# Remove Items from a List
+# Remove List Items
 
 # Run: python3 08_lists/5-remove-items.py
 

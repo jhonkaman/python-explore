@@ -1,4 +1,4 @@
-# Add Items to a List
+# Add List Items
 
 # Run: python3 08_lists/4-add-items.py
 
